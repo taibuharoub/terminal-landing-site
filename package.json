@@ -1,0 +1,20 @@
+{
+  "name": "terminal-landing-site",
+  "version": "1.0.0",
+  "description": "Terminal like Landing Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/terminal-landing-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/terminal-landing-site/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/terminal-landing-site#readme"
+}
